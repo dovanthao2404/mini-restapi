@@ -1,5 +1,5 @@
 export const routerString = {
-    Login: "/dangnhap",
-    ListUser: "/laydanhsachnguoidung",
-    AddUser: "/themnguoidung",
+    Login: "/login",
+    ListUser: "/list-user",
+    AddUser: "/add-user",
 };
